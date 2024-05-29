@@ -3,3 +3,4 @@
 #### 做法
 ##### C：
 [c语言 2024-5-29 时间：35ms/29.34% 内存：13.46MB/75.58%](IntersectingLinkedList01.cpp)
+[c语言 2024-5-29 时间：33ms/47.53% 内存：13.55MB/54.06%](IntersectingLinkedList02.cpp)
